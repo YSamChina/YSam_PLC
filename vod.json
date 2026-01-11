@@ -1,0 +1,36 @@
+[
+  {
+    "id": "Zuidapi",
+    "name": "最大资源",
+    "api": "https://api.zuidapi.com/api.php/provide/vod/",
+    "nsfw": false,
+    "logo": "https://api.niuniuzy.me/template/niuniuzy/static/images/logo.png",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "feifanziyuan",
+    "name": "非凡资源",
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
+    "logo": "http://cj.ffzyapi.com/template/ffzy/static/picture/logo.png",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+{"key":"最大资源","name":"最大资源","api":"https://api.zuidapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group":"影视","status":true,"isActive":true,"type":1,"id":20},
