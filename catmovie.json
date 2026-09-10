@@ -689,19 +689,6 @@
     "jiexiUrl": null
   },
   {
-    "name": "優異資源",
-    "logo": "",
-    "desc": "小貓新增源｜非53｜≥80%",
-    "nsfw": true,
-    "api": {
-      "root": "https://a.uezy.pw",
-      "path": "/api.php/provide/vod/"
-    },
-    "id": "youyiziyuan",
-    "status": true,
-    "jiexiUrl": null
-  },
-  {
     "name": "濕樂園",
     "logo": "",
     "desc": "小貓新增源｜非53｜≥80%",
@@ -711,32 +698,6 @@
       "path": "/api.php/provide/vod/"
     },
     "id": "shileyuan",
-    "status": true,
-    "jiexiUrl": null
-  },
-  {
-    "name": "X細胞資源",
-    "logo": "",
-    "desc": "小貓新增源｜非53｜≥80%",
-    "nsfw": true,
-    "api": {
-      "root": "https://www.xxibaozyw.com",
-      "path": "/api.php/provide/vod/"
-    },
-    "id": "xxibao",
-    "status": true,
-    "jiexiUrl": null
-  },
-  {
-    "name": "草榴資源",
-    "logo": "",
-    "desc": "小貓新增源｜非53｜≥80%",
-    "nsfw": true,
-    "api": {
-      "root": "https://www.caoliuzyw.com",
-      "path": "/api.php/provide/vod/at/json/"
-    },
-    "id": "caoliu",
     "status": true,
     "jiexiUrl": null
   }
