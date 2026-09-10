@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "360資源",
     "logo": "",
@@ -442,58 +442,6 @@
     "jiexiUrl": null
   },
   {
-    "name": "黑木耳資源",
-    "logo": "",
-    "desc": "小貓新增源｜非53｜≥80%",
-    "nsfw": false,
-    "api": {
-      "root": "https://json02.heimuer.xyz",
-      "path": "/api.php/provide/vod/"
-    },
-    "id": "heimuer",
-    "status": true,
-    "jiexiUrl": null
-  },
-  {
-    "name": "天翼資源",
-    "logo": "",
-    "desc": "小貓新增源｜非53｜≥80%",
-    "nsfw": false,
-    "api": {
-      "root": "https://www.911ysw.top",
-      "path": "/tianyi.php/provide/vod/"
-    },
-    "id": "tianyi",
-    "status": true,
-    "jiexiUrl": null
-  },
-  {
-    "name": "臥龍資源",
-    "logo": "",
-    "desc": "小貓新增源｜非53｜≥80%",
-    "nsfw": false,
-    "api": {
-      "root": "https://collect.wolongzyw.com",
-      "path": "/api.php/provide/vod/"
-    },
-    "id": "wolong",
-    "status": true,
-    "jiexiUrl": null
-  },
-  {
-    "name": "華為吧資源",
-    "logo": "",
-    "desc": "小貓新增源｜非53｜≥80%",
-    "nsfw": false,
-    "api": {
-      "root": "https://huawei8.live",
-      "path": "/api.php/provide/vod/"
-    },
-    "id": "huawei8",
-    "status": true,
-    "jiexiUrl": null
-  },
-  {
     "name": "森林資源",
     "logo": "",
     "desc": "小貓53特選源",
@@ -712,6 +660,87 @@
     },
     "id": "huangav",
     "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "淫水機資源",
+    "logo": "",
+    "desc": "小貓53特選源",
+    "nsfw": true,
+    "api": {
+      "root": "https://www.xrbsp.com",
+      "path": "/api/json.php"
+    },
+    "id": "yinshuiji",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "香奶兒資源",
+    "logo": "",
+    "desc": "小貓53特選源",
+    "nsfw": true,
+    "api": {
+      "root": "https://www.gdlsp.com",
+      "path": "/api/json.php"
+    },
+    "id": "xiangnaier",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "優異資源",
+    "logo": "",
+    "desc": "小貓新增源｜非53｜≥80%",
+    "nsfw": true,
+    "api": {
+      "root": "https://a.uezy.pw",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "youyiziyuan",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "濕樂園",
+    "logo": "",
+    "desc": "小貓新增源｜非53｜≥80%",
+    "nsfw": true,
+    "api": {
+      "root": "https://xxavs.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "shileyuan",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "X細胞資源",
+    "logo": "",
+    "desc": "小貓新增源｜非53｜≥80%",
+    "nsfw": true,
+    "api": {
+      "root": "https://www.xxibaozyw.com",
+      "path": "/api.php/provide/vod/"
+    },
+    "id": "xxibao",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "草榴資源",
+    "logo": "",
+    "desc": "小貓新增源｜非53｜≥80%",
+    "nsfw": true,
+    "api": {
+      "root": "https://www.caoliuzyw.com",
+      "path": "/api.php/provide/vod/at/json/"
+    },
+    "id": "caoliu",
+    "status": true,
+    "jiexiUrl": null
+  }
+]
     "jiexiUrl": null
   },
   {
